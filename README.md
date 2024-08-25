@@ -12,3 +12,5 @@ I'm a software engineering student at INPT(national institute of posts and telec
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elmerjani)](https://git.io/streak-stats)
 
 
+## Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{elmerjani}/count.svg)
